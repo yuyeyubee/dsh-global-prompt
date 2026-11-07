@@ -1,0 +1,5 @@
+# The global-prompt bundle: one Host row that contributes the prompt section and
+# the authenticated settings route, plus the Client half declared in package.json.
+- insert:
+    - id: global-prompt
+      name: '@local/global-prompt'

@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Global Prompt",
+    "description": "Loads one shared prompt into every session's system prompt. Edit it under Settings -> Global Prompt."
+  }
+}
